@@ -194,7 +194,7 @@ Cuando hice la configuración puse el GNOME sin querer y ya no pude quitarlo.
 
 </div>
 
-
+## Step 7: 
 ## Preguntas
 
 1. ¿Por que se tuvo que desactivar el DHCP del router principal?
